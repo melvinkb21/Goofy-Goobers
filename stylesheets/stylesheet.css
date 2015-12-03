@@ -18,7 +18,7 @@ html {
 
 body {
   margin: 0;
-  background-color: tan;
+  
 }
 
 /* HTML5 display definitions
@@ -98,6 +98,7 @@ a {
 a:active,
 a:hover {
   outline: 0;
+  color: white;
 }
 
 /* Text-level semantics
@@ -434,7 +435,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #666;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  background: #fafafa url(https://i.ytimg.com/vi/jNT3O4NlSTo/maxresdefault.jpg) 0 0 repeat;
 }
 
 p {
@@ -445,7 +446,7 @@ a {
   color: #2879d0;
 }
 a:hover {
-  color: #2268b2;
+  color: #white;
 }
 
 header {
